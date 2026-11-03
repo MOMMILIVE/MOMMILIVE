@@ -41,7 +41,6 @@ Mommi Live (born 28 August 1999 in Oslo, Norway) is a Norwegian creative directo
 - **Web:** [www.mommilive.com](https://www.mommilive.com/)
 - **Instagram:** [@mommilive](https://www.instagram.com/mommilive/)
 - **YouTube:** [@mommilive](https://www.youtube.com/@mommilive)
-- **TikTok:** [@mommilive](https://www.tiktok.com/@mommilive)
 - **LinkedIn:** [linkedin.com/in/mommilive](https://www.linkedin.com/in/mommilive)
 - **X (Twitter):** [@mommilive](https://x.com/mommilive)
 - **Pinterest:** [@mommiliveofficial](https://no.pinterest.com/mommiliveofficial/)
