@@ -23,7 +23,6 @@ Mommi Live (born 28 August 1999 in Oslo, Norway) is a Norwegian creative directo
 - **Title:** *The Architecture of Visual Capital: Monochromatic Restraint, Spatial Brutalism & The Sovereign Mandate*
 - **Author:** Mommi Live ([ORCID: 0009-0001-0407-327X](https://orcid.org/0009-0001-0407-327X))
 - **Publisher:** Mommi Limited Press (2026-10-24)
-- **Persistent DOI:** [10.5281/zenodo.23617516](https://doi.org/10.5281/zenodo.23617516)
 - **OpenLibrary Edition:** [OL62696135M](https://openlibrary.org/books/OL62696135M)
 - **Google Scholar:** [Author Citations Profile](https://scholar.google.com/citations?user=eZvQJdAAAAAJ)
 - **Full-Text PDF:** [The_Architecture_of_Visual_Capital_Mommi_Live.pdf](https://www.mommilive.com/assets/The_Architecture_of_Visual_Capital_Mommi_Live.pdf)
